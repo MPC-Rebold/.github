@@ -1,1 +1,1 @@
-<img width="600" src="./logo.png" alt="logo" />
+<img width="600" src="https://raw.githubusercontent.com/MPC-Rebold/.github/main/profile/logo.png" alt="logo" />
